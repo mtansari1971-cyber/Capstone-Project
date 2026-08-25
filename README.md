@@ -12,8 +12,8 @@ The application is built using **Python, Streamlit, Gemini API, Pandas, Plotly, 
 
 🌐 **Live Application:** 
 
-https://capstone-project-elgjhkhiknc4zkhgpa6yk4.streamlit.app/
-https://drive.google.com/file/d/1kenGE3CzHyfgVIDrOSONU9rj19oQxgPE/view?usp=drive_link
+Live Deploy App Link:: https://capstone-project-elgjhkhiknc4zkhgpa6yk4.streamlit.app/
+Demo Video Link:: https://drive.google.com/file/d/1kenGE3CzHyfgVIDrOSONU9rj19oQxgPE/view?usp=drive_link
 
 
 
