@@ -17,7 +17,9 @@ Live Deploy App Link:: https://capstone-project-elgjhkhiknc4zkhgpa6yk4.streamlit
 
 UI Demo Video Link:: https://drive.google.com/file/d/1kenGE3CzHyfgVIDrOSONU9rj19oQxgPE/view?usp=drive_link
 
+## Linkedin 
 
+www.linkedin.com/in/mohd-talib-5163b8292
 
 ---
 
